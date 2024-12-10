@@ -1,0 +1,277 @@
+{
+  "baseInfo": {
+    "funcFlag": "ZY028",
+    "operator": "GWOLDT",
+    "sourceId": "GWOLDT",
+    "transDate": "2024-11-15",
+    "transNo": "GWOLDT170848",
+    "transTime": "14:02:46"
+  },
+  "transRequest": {
+    "prtNo": "1050993302184388",
+    "manageCom": "86010101",
+    "appntInfoList": [
+      {
+        "name": "张杨树",
+        "sex": "0",
+        "birthday": "1992-06-12",
+        "idType": "0",
+        "idNo": "110101199206120891",
+        "idValidStart": "",
+        "idValidEnd": "2040-01-01",
+        "idValidIsAlways": "1",
+        "spouse": "1",
+        "registeredType": "",
+        "weChat": "",
+        "income": "50",
+        "familyIncome": "",
+        "incomeSource": "4",
+        "sourIncomeDesc": "",
+        "degree": "大专",
+        "chinaRevenue": "",
+        "residence": "",
+        "official": "",
+        "fixedTelephone": "",
+        "mobile": "13233657784",
+        "email": "578794687@qq.com",
+        "career": "杂货商",
+        "registeredResidence": "中国",
+        "work": "哦哦哦",
+        "timeJob": "",
+        "maxJobCode": "4071506",
+        "workUnits": "",
+        "correspAddrDetail": "北京市市辖区西城区民国时期墨迹了吗6号",
+        "province": "北京市",
+        "city": "市辖区",
+        "county": "西城区",
+        "addrStreet": "民国时期墨迹了吗6号",
+        "postalCode": "100032",
+        "tellInfoList": [
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P507",
+            "tellContent": "7、您是否计划1年以内前往其他国家或地区？若有，请在“财务和其他告知说明栏”说明计划前往的国家或地区及时间。",
+            "tellRemark": "N",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P508",
+            "tellContent": "8、您是否负债超过200万元（自用房屋及车辆贷款除外）？",
+            "tellRemark": "N",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "1",
+            "tellVersion": "107",
+            "tellCode": "P701",
+            "tellContent": "1、（投保人）身高_______厘米，体重_______公斤。",
+            "tellRemark": "178,70",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P501",
+            "tellContent": "1、每年固定收入及收入来源:",
+            "tellRemark": "50,4",
+            "tellResult": "N"
+          }
+        ]
+      }
+    ],
+    "insuredInfoList": [
+      {
+        "insuredSeqNo": "1",
+        "name": "柳树",
+        "sex": "0",
+        "birthday": "2024-06-12",
+        "idType": "0",
+        "idNo": "110101202406120591",
+        "idValidStart": "",
+        "idValidEnd": "2029-07-01",
+        "idValidIsAlways": "1",
+        "spouse": "0",
+        "registeredType": "",
+        "weChat": "",
+        "income": "0",
+        "familyIncome": "",
+        "incomeSource": "0",
+        "sourIncomeDesc": "无",
+        "degree": "初中及以下",
+        "chinaRevenue": "",
+        "residence": "",
+        "official": "",
+        "fixedTelephone": "",
+        "mobile": "13233657784",
+        "email": "578794687@qq.com",
+        "career": "学龄前儿童",
+        "registeredResidence": "中国",
+        "work": "无",
+        "timeJob": "",
+        "maxJobCode": "2099908",
+        "workUnits": "无",
+        "correspAddrDetail": "北京市市辖区西城区民国时期墨迹了吗6号",
+        "province": "北京市",
+        "city": "市辖区",
+        "county": "西城区",
+        "addrStreet": "民国时期墨迹了吗6号",
+        "postalCode": "100032",
+        "relateToAppnt": "03",
+        "tellInfoList": [
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P507",
+            "tellContent": "7、您是否计划1年以内前往其他国家或地区？若有，请在“财务和其他告知说明栏”说明计划前往的国家或地区及时间。",
+            "tellRemark": "N",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P508",
+            "tellContent": "8、您是否负债超过200万元（自用房屋及车辆贷款除外）？",
+            "tellRemark": "N",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "1",
+            "tellVersion": "107",
+            "tellCode": "P701",
+            "tellContent": "1、（被保险人）身高_______厘米，体重_______公斤 。",
+            "tellRemark": "55,5",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P501",
+            "tellContent": "1、每年固定收入及收入来源:",
+            "tellRemark": "0,6:无",
+            "tellResult": "N"
+          }
+        ]
+      }
+    ],
+    "lcaccountInfo": {
+      "sumPrem": "3000",
+      "payMode": "4",
+      "payIntv": "12",
+      "exPayMode": "4",
+      "renewalInsured": "",
+      "depositBank": "中国银行",
+      "accountName": "张杨树",
+      "account": "6174200081238968071",
+      "insuredDepositBank": "",
+      "insuredAccountName": "",
+      "insuredAccount": "",
+      "overFlowPrem": "1",
+      "overduePrem": "0",
+      "payYears": ""
+    },
+    "agentInfoList": {
+      "agentCom": "000029010101",
+      "agentCode": "8601X00146",
+      "interAgentName": "黄晓凤",
+      "interAgentCode": "0291000522",
+      "interAgentPhone": "13911657526",
+      "customName": "",
+      "customCode": "",
+      "customPhone": ""
+    },
+    "letterContent": {
+      "prtSeq": "",
+      "lettersText": "",
+      "checkPayMode": "",
+      "isAgree": "",
+      " accountOld": "",
+      " depositBankOld": "",
+      " accountNew": "",
+      " depositBankNew": ""
+    },
+    "receiptInfo": {
+      "contNo": ""
+    },
+    "subType": [
+      "1050",
+      "1131",
+      "1102",
+      "1123",
+      "1138"
+    ],
+    "bnfInfoList": [
+      {
+        "insuredSeqNo": "1",
+        "bnfType": "1",
+        "name": "",
+        "sex": "",
+        "birthday": "",
+        "idNo": "",
+        "idValiDateType": "",
+        "idStartDate": "",
+        "idEndDate": "",
+        "relateToInsured": "",
+        "bnfNo": "",
+        "bnfLot": "",
+        "jobName": "",
+        "mobile": "",
+        "addressTypeNo": "",
+        "bnfAddress": "",
+        "nativePlace": "",
+        "nativePlaceName": "",
+        "liveReceive": "",
+        "rapidType": "2"
+      },
+      {
+        "insuredSeqNo": "1",
+        "bnfType": "0",
+        "name": "柳树",
+        "sex": "0",
+        "birthday": "2024-06-12",
+        "idType": "0",
+        "idNo": "110101202406120591",
+        "idValiDateType": "",
+        "idStartDate": "",
+        "idEndDate": "2029-07-01",
+        "relateToInsured": "00",
+        "bnfNo": 1,
+        "bnfLot": "100%",
+        "jobName": "学龄前儿童",
+        "mobile": "13233657784",
+        "addressTypeNo": "1",
+        "bnfAddress": "北京市市辖区西城区民国时期墨迹了吗6号",
+        "nativePlace": "CHN",
+        "nativePlaceName": "中国",
+        "jobCode": "2099908",
+        "liveReceive": "",
+        "rapidType": "1",
+        "degree": ""
+      }
+    ],
+    "riskInfoList": [
+      {
+        "riskCode": "01313",
+        "riskName": "长城八达岭南山版养老年金保险（分红型）",
+        "mult": "1224.00",
+        "insuredYear": 105,
+        "payEndYear": 5,
+        "prem": "3000",
+        "subriskflag": "M",
+        "risktype": 1,
+        "polPlanName": "保障方案一",
+        "getIntv": "12",
+        "getYear": 60,
+        "dutyInfoList": [],
+        "insuredYearFlag": "A",
+        "payEndYearFlag": "Y",
+        "getYearFlag": "A",
+        "polPlanCode": "A",
+        "excess": "",
+        "bonusGetMode": "2"
+      }
+    ]
+  }
+}

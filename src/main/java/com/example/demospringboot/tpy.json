@@ -1,0 +1,8 @@
+{
+  "INSURE_URL": "https://sit-htgateway.life.ehuatai.com/tpa/channel-access-1.0-SNAPSHOT/JDXAccess",
+  "TOKEN_URL": "https://sit-htgateway.life.ehuatai.com/tpa/channel-access-1.0-SNAPSHOT/JDXTokenAccess",
+  "letterUrl": "https://sit-mic.life.ehuatai.com:8090/#/?System=DTApp&Token=",
+  "receiptUrl": "https://sit-wechat.life.ehuatai.com/ups3/receiptSales/receiptSalesList?source=30007",
+  "imageEnv": "sit",
+  "doubleRecordSecretKey": "637a303879623869787630713279686f"
+}

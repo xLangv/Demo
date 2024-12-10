@@ -1,0 +1,82 @@
+{
+  "TransData": {
+    "BaseInfo": {
+      "Operator": "jdt",
+      "Origin": "1",
+      "TradeTime": "17:22:31",
+      "TradeSeq": "HTRS2410161528038152000823",
+      "TradeDate": "20241016",
+      "TradeCode": "epad0054",
+      "TradeType": "http",
+      "Key": ""
+    },
+    "InputData": {
+      "saveSuggestParam": {
+        "Risks": [
+          {
+            "WealthAddPrem": "",
+            "GetMode": "",
+            "Years": "term_80",
+            "PayYears": 30,
+            "RiskOrder": "",
+            "RiskSelNo": "100",
+            "CouponYear": "",
+            "Prem": "116",
+            "PayMode": "year",
+            "Amnt": "100000.00",
+            "RiskCode": "20042401",
+            "WealthAddYear": "",
+            "Mult": "0",
+            "MainRiskCode": "20042401",
+            "WealthStartYear": "",
+            "WealthPremToAmnt": "",
+            "RiskType": "M"
+          }
+        ],
+        "PolApplyDate": "2024-10-16",
+        "SumPrem": "116.00",
+        "SumAddPrem": "0",
+        "ContNo": "2024101601000077636",
+        "InsuredInfo": {
+          "InsuredWorkType": "",
+          "InsuredSex": "0",
+          "InsuredName": "啊呸上",
+          "MedInsurance": "N",
+          "InsuredBirthday": "2006-03-13",
+          "InsuredAge": 18,
+          "RelationToAppnt": "00",
+          "InsuredOccupationCode": "11206003",
+          "InsuredOccupationType": "2"
+        },
+        "AgentInfo": {
+          "AgentEmail": "",
+          "AgentCode": "640047622",
+          "AgentAddress": "",
+          "AgentIDNo": "110101198001010125",
+          "AgentName": "黄晓凤",
+          "AgentTel": "13911657515"
+        },
+        "AppntInfo": {
+          "AppntAge": 18,
+          "AppntSex": "0",
+          "AppntBirthday": "2006-03-13",
+          "AppntOccupationType": "2",
+          "AppntName": "啊呸上",
+          "AppntWorkType": "",
+          "AppntOccupationCode": "11206003"
+        },
+        "ProposalContNo": "881007410397308",
+        "LastResource": "",
+        "selectionMethod": "1"
+      },
+      "SugPdfItem": {
+        "Greetings": "",
+        "IsCompany": "1",
+        "IsPolicyProfit": "0",
+        "IsJdt": "Y",
+        "IsProfit": "0",
+        "IsPlan": "0"
+      }
+    }
+  }
+}

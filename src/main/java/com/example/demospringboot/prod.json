@@ -1,0 +1,279 @@
+{
+  "baseInfo": {
+    "funcFlag": "ZY028",
+    "operator": "GWOLDT",
+    "sourceId": "GWOLDT",
+    "transDate": "2024-11-29",
+    "transNo": "GWOLDT305200",
+    "transTime": "09:25:40"
+  },
+  "transRequest": {
+    "prtNo": "1050993061339488",
+    "manageCom": "86010101",
+    "appntInfoList": [
+      {
+        "name": "刘钦",
+        "sex": "1",
+        "birthday": "1999-03-18",
+        "idType": "0",
+        "idNo": "220182199903187227",
+        "idValidStart": "",
+        "idValidEnd": "2028-07-27",
+        "idValidIsAlways": "1",
+        "spouse": "0",
+        "registeredType": "",
+        "weChat": "",
+        "income": "10",
+        "familyIncome": "",
+        "incomeSource": "1",
+        "sourIncomeDesc": "",
+        "degree": "本科",
+        "chinaRevenue": "",
+        "residence": "",
+        "official": "",
+        "fixedTelephone": "",
+        "mobile": "18811598065",
+        "email": "18811598065@163.com",
+        "career": "金融一般内勤人员",
+        "registeredResidence": "中国",
+        "work": "内勤",
+        "timeJob": "",
+        "maxJobCode": "2079901",
+        "workUnits": "大童保险",
+        "correspAddrDetail": "北京市市辖区丰台区光彩路67号彩虹城四区1栋二单元1102室",
+        "province": "北京市",
+        "city": "市辖区",
+        "county": "丰台区",
+        "addrStreet": "光彩路67号彩虹城四区1栋二单元1102室",
+        "postalCode": "100071",
+        "tellInfoList": [
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P507",
+            "tellContent": "7、您是否计划1年以内前往其他国家或地区？若有，请在“财务和其他告知说明栏”说明计划前往的国家或地区及时间。",
+            "tellRemark": "N",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P508",
+            "tellContent": "8、您是否负债超过200万元（自用房屋及车辆贷款除外）？",
+            "tellRemark": "N",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "1",
+            "tellVersion": "107",
+            "tellCode": "P701",
+            "tellContent": "1、（投保人）身高_______厘米，体重_______公斤。",
+            "tellRemark": "160,50",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P501",
+            "tellContent": "1、每年固定收入及收入来源:",
+            "tellRemark": "10,1",
+            "tellResult": "N"
+          }
+        ]
+      }
+    ],
+    "insuredInfoList": [
+      {
+        "insuredSeqNo": "1",
+        "name": "刘钦",
+        "sex": "1",
+        "birthday": "1999-03-18",
+        "idType": "0",
+        "idNo": "220182199903187227",
+        "idValidStart": "",
+        "idValidEnd": "2028-07-27",
+        "idValidIsAlways": "1",
+        "spouse": "0",
+        "registeredType": "",
+        "weChat": "",
+        "income": "10",
+        "familyIncome": "",
+        "incomeSource": "1",
+        "sourIncomeDesc": "",
+        "degree": "本科",
+        "chinaRevenue": "",
+        "residence": "",
+        "official": "",
+        "fixedTelephone": "",
+        "mobile": "18811598065",
+        "email": "18811598065@163.com",
+        "career": "金融一般内勤人员",
+        "registeredResidence": "中国",
+        "work": "内勤",
+        "timeJob": "",
+        "maxJobCode": "2079901",
+        "workUnits": "大童保险",
+        "correspAddrDetail": "北京市市辖区丰台区光彩路67号彩虹城四区1栋二单元1102室",
+        "province": "北京市",
+        "city": "市辖区",
+        "county": "丰台区",
+        "addrStreet": "光彩路67号彩虹城四区1栋二单元1102室",
+        "postalCode": "100071",
+        "relateToAppnt": "00",
+        "tellInfoList": [
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P507",
+            "tellContent": "7、您是否计划1年以内前往其他国家或地区？若有，请在“财务和其他告知说明栏”说明计划前往的国家或地区及时间。",
+            "tellRemark": "N",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P508",
+            "tellContent": "8、您是否负债超过200万元（自用房屋及车辆贷款除外）？",
+            "tellRemark": "N",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "1",
+            "tellVersion": "107",
+            "tellCode": "P701",
+            "tellContent": "1、（被保险人）身高_______厘米，体重_______公斤 。",
+            "tellRemark": "160,50",
+            "tellResult": "N"
+          },
+          {
+            "tellType": "2",
+            "tellVersion": "105",
+            "tellCode": "P501",
+            "tellContent": "1、每年固定收入及收入来源:",
+            "tellRemark": "10,1",
+            "tellResult": "N"
+          }
+        ]
+      }
+    ],
+    "lcaccountInfo": {
+      "sumPrem": "3000",
+      "payMode": "4",
+      "payIntv": "12",
+      "exPayMode": "4",
+      "renewalInsured": "",
+      "depositBank": "农业银行",
+      "accountName": "刘钦",
+      "account": "6228480538116413575",
+      "insuredDepositBank": "",
+      "insuredAccountName": "",
+      "insuredAccount": "",
+      "overFlowPrem": "1",
+      "overduePrem": "0",
+      "payYears": ""
+    },
+    "agentInfoList": {
+      "agentCom": "000029010105",
+      "agentCode": "8601X08694",
+      "interAgentName": "刘钦",
+      "interAgentCode": "0291001538",
+      "interAgentPhone": "18811598065",
+      "customName": "",
+      "customCode": "",
+      "customPhone": ""
+    },
+    "letterContent": {
+      "prtSeq": "",
+      "lettersText": "",
+      "checkPayMode": "",
+      "isAgree": "",
+      " accountOld": "",
+      " depositBankOld": "",
+      " accountNew": "",
+      " depositBankNew": ""
+    },
+    "receiptInfo": {
+      "contNo": ""
+    },
+    "subType": [
+      "1050",
+      "1131",
+      "1102",
+      "1123",
+      "1138"
+    ],
+    "bnfInfoList": [
+      {
+        "insuredSeqNo": "1",
+        "bnfType": "1",
+        "name": "",
+        "sex": "",
+        "birthday": "",
+        "idNo": "",
+        "idValiDateType": "",
+        "idStartDate": "",
+        "idEndDate": "",
+        "relateToInsured": "",
+        "bnfNo": "",
+        "bnfLot": "",
+        "jobName": "",
+        "mobile": "",
+        "addressTypeNo": "",
+        "bnfAddress": "",
+        "nativePlace": "",
+        "nativePlaceName": "",
+        "liveReceive": "",
+        "rapidType": "2"
+      },
+      {
+        "insuredSeqNo": "1",
+        "bnfType": "0",
+        "name": "刘钦",
+        "sex": "1",
+        "birthday": "1999-03-18",
+        "idType": "0",
+        "idNo": "220182199903187227",
+        "idValiDateType": "",
+        "idStartDate": "",
+        "idEndDate": "2028-07-27",
+        "relateToInsured": "00",
+        "bnfNo": 1,
+        "bnfLot": "100%",
+        "jobName": "金融一般内勤人员",
+        "mobile": "18811598065",
+        "addressTypeNo": "1",
+        "bnfAddress": "北京市市辖区丰台区光彩路67号彩虹城四区1栋二单元1102室",
+        "nativePlace": "CHN",
+        "nativePlaceName": "中国",
+        "jobCode": "2079901",
+        "liveReceive": "",
+        "rapidType": "1",
+        "degree": ""
+      }
+    ],
+    "riskInfoList": [
+      {
+        "riskCode": "01313",
+        "riskName": "长城八达岭南山版养老年金保险（分红型）",
+        "mult": "789.00",
+        "insuredYear": 75,
+        "payEndYear": 5,
+        "prem": "3000",
+        "subriskflag": "M",
+        "risktype": 1,
+        "polPlanName": "保障方案二",
+        "getIntv": "12",
+        "getYear": 55,
+        "dutyInfoList": [
+
+        ],
+        "insuredYearFlag": "A",
+        "payEndYearFlag": "Y",
+        "getYearFlag": "A",
+        "polPlanCode": "B",
+        "excess": "",
+        "bonusGetMode": "1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "1",
+  "reason": "",
+  "email": "1436902598@qq.com",
+  "nickName": "夏朗",
+  "phone": "13297905870",
+  "sex": "1",
+  "userName": "xialangtest3",
+  "companyAuth": "1",
+  "companyId": "",
+  "productAuth": "1",
+  "organAuth": "2",
+  "userOrganList": [
+    {
+      "organId": "1411000000",
+      "organName": "大童北京区域中心",
+      "organType": "1"
+    },
+    {
+      "organId": "1433900000",
+      "organName": "大童宁波区域中心",
+      "organType": "1"
+    },
+    {
+      "organId": "1414000000",
+      "organName": "大童山西区域中心",
+      "organType": "1"
+    },
+    {
+      "organId": "1422000000",
+      "organName": "大童吉林区域中心",
+      "organType": "1"
+    }
+  ],
+  "userProductList": []
+}
