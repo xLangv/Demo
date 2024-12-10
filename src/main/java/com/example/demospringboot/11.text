@@ -1,7 +1,0 @@
-导入EXCEL用户表 字段有   private String userName;   private String nickName;   private String phone;  private String email;
- private String sex;
-用户所属保险公司   private String companyAuth; companyAuth 保司类型 默认特定保司 private String companyId;取值当前登录用户的保司ID
-状态后端设置   private String status; 启用
-是否限定产品 默认 不限  private String productAuth; 所以导入的字段只有 userName  nickName phone email sex 其他的字段依靠后端读取EXCEL文件默认赋值存库
-编写一个通用的工具类 使用 easyExcel最新版本 实现上述需求 ，做到通用使用，注意字段校验 电话 邮箱等
-
